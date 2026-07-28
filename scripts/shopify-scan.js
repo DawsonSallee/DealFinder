@@ -116,6 +116,9 @@ function flattenListings(domain, shopName, collection, products) {
         discountPct,
         available: v.available,
         url: `https://${domain}/products/${p.handle}${v.id ? `?variant=${v.id}` : ""}`,
+        image: (p.images && p.images[0] && p.images[0].src) || null,
+        productType: p.product_type || null,
+        createdAt: p.created_at || null,
       });
     }
   }
