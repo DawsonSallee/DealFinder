@@ -1,0 +1,2317 @@
+[
+ {
+  "name": "Adventure Kiteboarding",
+  "city": "Muskego",
+  "state": "Wisconsin",
+  "country": "USA",
+  "website": "https://adventurekiteboarding.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "MacKite Kiteboarding",
+  "city": "Grand Haven",
+  "state": "Michigan",
+  "country": "United States",
+  "website": "https://www.mackiteboarding.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Pro Kite Surf",
+  "city": "Portland",
+  "state": "Texas",
+  "country": "United States",
+  "website": "https://kiteboarding.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Great Lakes Kiteboarding & Surf Shop",
+  "city": "St Clair Shores",
+  "state": "Michigan",
+  "country": "USA",
+  "website": "https://www.greatlakeskiteboarding.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Gulf Shores Kiteboarding",
+  "city": "Foley",
+  "state": "AL",
+  "country": "USA",
+  "website": "https://www.gulfshoreskiteboarding.com/",
+  "filters": []
+ },
+ {
+  "name": "Northline",
+  "city": "Toronto",
+  "state": "Ontario",
+  "country": "Canada",
+  "website": "https://www.northlinesports.ca/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Wing and Kite",
+  "city": "Calgary",
+  "state": "Alberta",
+  "country": "Canada",
+  "website": "http://www.wingandkite.com",
+  "filters": []
+ },
+ {
+  "name": "Kite-Line Kiteboarding",
+  "city": "Bend",
+  "state": "Oregon",
+  "country": "USA",
+  "website": "https://www.kite-line.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "KiteGearFix Repair Center",
+  "city": "Largo",
+  "state": "Florida",
+  "country": "USA",
+  "website": "https://www.kitegearfix.com",
+  "filters": []
+ },
+ {
+  "name": "Big Winds",
+  "city": "Hood River",
+  "state": "Oregon",
+  "country": "USA",
+  "website": "https://bigwinds.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Elite Watersports",
+  "city": "St. Petersburg",
+  "state": "Florida",
+  "country": "USA",
+  "website": "https://elitewatersports.com/?utm_source=google&utm_medium=organic&utm_campaign=GBP",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "California Kiteboarding",
+  "city": "Pismo Beach",
+  "state": "California",
+  "country": "USA",
+  "website": "https://www.californiakiteboarding.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "East of Maui",
+  "city": "Dewey Beach",
+  "state": "DE",
+  "country": "US",
+  "website": "https://eastofmaui.com/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Action On Board",
+  "city": null,
+  "state": "La Ventana",
+  "country": "Mexico",
+  "website": "http:// www.actiononboard.com",
+  "filters": [
+   "School"
+  ]
+ },
+ {
+  "name": "Gorge Performance",
+  "city": "Portland",
+  "state": "Oregon",
+  "country": "USA",
+  "website": "https://gorgeperformance.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Boardsports California",
+  "city": "San Mateo",
+  "state": "California",
+  "country": "USA",
+  "website": "https://boardsportscalifornia.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Boardsports California",
+  "city": "San Francisco",
+  "state": "California",
+  "country": "USA",
+  "website": "https://boardsportscalifornia.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Real Watersports",
+  "city": "Waves",
+  "state": "North Carolina",
+  "country": "United States",
+  "website": "https://www.realwatersports.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kite Paddle Surf",
+  "city": "Bellingham",
+  "state": "Washington",
+  "country": "USA",
+  "website": "https://www.kitepaddlesurf.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Floras Lake Kiteboarding & Windsurf",
+  "city": "Langlois",
+  "state": "Oregon",
+  "country": "USA",
+  "website": "https://www.floraslakekiting.com/",
+  "filters": [
+   "School"
+  ]
+ },
+ {
+  "name": "Squamish Watersports",
+  "city": "Squamish",
+  "state": "BC",
+  "country": "Canada",
+  "website": "https://www.squamishwatersports.com/",
+  "filters": [
+   "School"
+  ]
+ },
+ {
+  "name": "Liquid Surf & Sail",
+  "city": "Ft Lauderdale",
+  "state": "Florida",
+  "country": "USA",
+  "website": "https://liquidsurfandsail.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Miami Kiteboarding",
+  "city": "Key Biscayne",
+  "state": "Florida",
+  "country": "USA",
+  "website": "https://miamikiteboarding.com/",
+  "filters": []
+ },
+ {
+  "name": "Gybe Sailing",
+  "city": "Supermanzana Fase",
+  "state": "Puerto Aventuras, Q.R.",
+  "country": "Mexico",
+  "website": "https://gybesailing.com/",
+  "filters": []
+ },
+ {
+  "name": "Kiteboarding Bonaire",
+  "city": "Kralendijk",
+  "state": null,
+  "country": "Caribisch Nederland",
+  "website": "https://www.kiteboardingbonaire.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Naish Pro Center Maui",
+  "city": "Haiku",
+  "state": "Hawaii",
+  "country": "USA",
+  "website": "https://www.naish.com/pages/pro-center-maui",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Deal Peru",
+  "city": "Miraflores",
+  "state": "Lima",
+  "country": "Peru",
+  "website": "http://www.surfdealperu.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Sailing Fast",
+  "city": "Farrenridge",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.sailingfast.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Skymonster",
+  "city": "Dalkeith",
+  "state": "Scotland",
+  "country": "UK",
+  "website": "http://www.skymonster.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "KA Adventure Sports",
+  "city": "Beadnell",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.kaadventuresports.co.uk",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Northern Watersports",
+  "city": "Wallasey",
+  "state": "Merseyside",
+  "country": "United Kingdom",
+  "website": "http://northernwatersports.co.uk",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Juice Boardsports",
+  "city": "Huddersfield",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.juiceboardsports.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Powerkiteshop",
+  "city": "Oldbury",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.powerkiteshop.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Reactive Watersports",
+  "city": "Ivybridge",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.reactivewatersports.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "ATB Shop",
+  "city": "Wiltshire",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.atbshop.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "109 Watersports",
+  "city": "Weymouth",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.109watersports.co.uk",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Ataoride Ridea",
+  "city": "Brest",
+  "state": null,
+  "country": "France",
+  "website": "https://www.ataoride.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "SASU Sport Rider / Loisirs 3000",
+  "city": "Brest",
+  "state": null,
+  "country": "France",
+  "website": "https://www.loisirs3000.fr/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Poole Harbour Watersports",
+  "city": "Poole",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.pooleharbour.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "King Of Watersports",
+  "city": "Poole Dorset",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.kingofwatersports.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "24-7 Boardsports",
+  "city": "Calshot Southampton",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.24-7boardsports.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Andy Biggs Watersports",
+  "city": "Gosport",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.andybiggs.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Bracklesham Boardriders",
+  "city": "East Wittering Chichester",
+  "state": "Chichester",
+  "country": "UK",
+  "website": "http://www.brackleshamboardriders.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Gone Paddling Jersey",
+  "city": "Jersey",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.gonepaddling.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Ladle",
+  "city": "Shoreham By Sea",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.surfladle.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Fluid Lines",
+  "city": "Colchester",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.fluid-lines.co.uk",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Addicted AS",
+  "city": "Vestby",
+  "state": "",
+  "country": "Norway",
+  "website": "http://www.addicted.no",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Essex Kitesurf School",
+  "city": "Southen-On-Sea",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.essexkitesurf.co.uk",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Carnac Evasion",
+  "city": "Carnac",
+  "state": "Brittany",
+  "country": "France",
+  "website": "http://www.carnac-evasion.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "The Foiling Collective",
+  "city": "Kent",
+  "state": null,
+  "country": "UK",
+  "website": "http://www.thefoilingcollective.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Glisse Evolution",
+  "city": "Pornichet",
+  "state": null,
+  "country": "France",
+  "website": "https://www.magasin-glissevolution.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Clinique de la Planche",
+  "city": "Caen",
+  "state": "Normandy",
+  "country": "France",
+  "website": "https://www.cliniquedelaplanche.com/",
+  "filters": [
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "La Clinique de la Planche SARL",
+  "city": "Caen",
+  "state": null,
+  "country": "France",
+  "website": "https://www.cliniquedelaplanche.com",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Zephcontrol",
+  "city": "MERVILLE FRANCEVILLE PLAGE",
+  "state": null,
+  "country": "France",
+  "website": "https://www.zephcontrol.com/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Kite'R Evolution",
+  "city": "MERVILLE FRANCEVILLE PLAGE",
+  "state": null,
+  "country": "France",
+  "website": "https://kite-r.com",
+  "filters": [
+   "School",
+   "Rental"
+  ]
+ },
+ {
+  "name": "SARL Du Menhir",
+  "city": "Cabourg",
+  "state": null,
+  "country": "France",
+  "website": "https://www.lemenhir.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "MelloW bvba",
+  "city": "OOSTDUINKERKE - België",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "One Open Sky Herning",
+  "city": "Herning",
+  "state": "Midtjylland",
+  "country": "Denmark",
+  "website": "https://www.oneopensky.dk/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Xrosswind bvba / Icarus Surfclub",
+  "city": "Jabbeke - België",
+  "state": null,
+  "country": null,
+  "website": "https://www.icarussurfclub.be/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfsports Castricum",
+  "city": "CASTRICUM - Nederland",
+  "state": null,
+  "country": "Netherlands",
+  "website": "http://www.surfsportscastricum.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Jonker Funsports",
+  "city": "RENESSE - Nederland",
+  "state": null,
+  "country": "NL",
+  "website": "https://www.jonkerfunsports.nl/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfandmore",
+  "city": "IJMUIDEN - Nederland",
+  "state": null,
+  "country": "Netherlands",
+  "website": "https://www.surfandmore.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Zeil- & Surfcentrum Brouwersdam",
+  "city": "Ouddorp",
+  "state": "",
+  "country": "Netherlands",
+  "website": "http://www.brouwersdam.nl",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental",
+   "Demo center"
+  ]
+ },
+ {
+  "name": "Kiteboardshop /Air Adventure",
+  "city": "HOEK VAN HOLLAND - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Funsport Makkum",
+  "city": "Makkum",
+  "state": null,
+  "country": "Nederland",
+  "website": "http://www.funsportmakkum.nl",
+  "filters": []
+ },
+ {
+  "name": "Funsport Makkum",
+  "city": "Makkum",
+  "state": null,
+  "country": "Netherlands",
+  "website": "https://www.funsportmakkum.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Versus Shop",
+  "city": "DEN HAAG - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "KiteMana B.V.",
+  "city": "NOORDWIJK - Nederland",
+  "state": null,
+  "country": null,
+  "website": "https://www.kitemana.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kitesurfshop Haarlem",
+  "city": "HAARLEM - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": []
+ },
+ {
+  "name": "Kitesurfshop Haarlem",
+  "city": "HAARLEM - Nederland",
+  "state": null,
+  "country": "Netherlands",
+  "website": "https://www.kitesurfshop.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Core N More",
+  "city": "WORKUM - Nederland",
+  "state": null,
+  "country": "Netherlands",
+  "website": "https://www.corenmore.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Siem de Jong Funsports",
+  "city": "DELFT - Nederland",
+  "state": null,
+  "country": "Netherlands",
+  "website": "https://shop.siem.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Hotmer Lille",
+  "city": "Villeneuve D'ascq",
+  "state": null,
+  "country": "France",
+  "website": "https://www.hotmer.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Van Bellen Surfing",
+  "city": "WILLEMSTAD - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "TWS Tenerife Windsurf Solution",
+  "city": "El Medano",
+  "state": "Spanje",
+  "country": null,
+  "website": "http://alexpastorkiteclub.com",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Wakestyle",
+  "city": "BUSSUM - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": []
+ },
+ {
+  "name": "Wakestyle",
+  "city": "BUSSUM - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfschule Amrum / Ricklef Boyens",
+  "city": "Norddorf",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfschule-amrum.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Telstar Surf",
+  "city": "Ermelo",
+  "state": "Gelderland",
+  "country": "Netherlands",
+  "website": "https://www.telstarsurf.nl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfschule Norddeich",
+  "city": "Norden",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfschule-norddeich.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfcenter B.V.",
+  "city": "STEENDAM - Nederland",
+  "state": null,
+  "country": null,
+  "website": "https://surf-center.com/en/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Herman Lieven v.o.f.",
+  "city": "S-HERTOGENBOSCH - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Herman Lieven v.o.f.",
+  "city": "S-HERTOGENBOSCH - Nederland",
+  "state": null,
+  "country": null,
+  "website": null,
+  "filters": []
+ },
+ {
+  "name": "Matos Surf & Kite Shop sprl",
+  "city": "BRUXELLES - België",
+  "state": null,
+  "country": "Belgium",
+  "website": "https://matos.be/en/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "The Corner Shop Boulogne",
+  "city": "Boulogne",
+  "state": null,
+  "country": "France",
+  "website": "https://www.thecornershop.fr/",
+  "filters": [
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "The Ridery Paris",
+  "city": "PARIS",
+  "state": null,
+  "country": "France",
+  "website": "https://theridery.com",
+  "filters": [
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "The Corner Shop",
+  "city": "PARIS",
+  "state": null,
+  "country": "France",
+  "website": "https://www.thecornershop.fr/",
+  "filters": [
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Surfpirates GmbH",
+  "city": "Flensburg",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfpirates.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Get Up Stand Up",
+  "city": "Kappeln",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.getupstandup.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kite Buddy",
+  "city": "Bremerhaven",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "online-surfshop.de",
+  "city": "Oldenburg",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.online-surfshop.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "WSM Funsport",
+  "city": "Oldenburg",
+  "state": "Lower Saxony",
+  "country": "Germany",
+  "website": "https://www.wsmfunsport.de/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Draußen bewegt GmbH",
+  "city": "Oldenburg",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "WindSucht",
+  "city": "Hamminkeln",
+  "state": null,
+  "country": "Germany",
+  "website": "http://www.windsucht.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Depot Kiel",
+  "city": "Kiel Kronshagen",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfdepotkiel.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "SURF COAST (Hintz + Klotz GbR)",
+  "city": "Kiel",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Coast",
+  "city": "Kiel",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surf-coast.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfers Paradise Laboe",
+  "city": "Laboe",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.kiel.surfers-p.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Line Kiel GmbH",
+  "city": "Kiel",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfsport Rheinhausen",
+  "city": "Duisburg",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Naish Japan Co Ltd",
+  "city": "Tokyo",
+  "state": "Tokyo",
+  "country": "Japan",
+  "website": "http://www.naishjapan.com/index.html",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "One Open Sky Kobenhavn",
+  "city": "Copenhagen",
+  "state": "Hovedstaden",
+  "country": "Denmark",
+  "website": "https://www.oneopensky.dk/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Adventurekite / Andreas Dunninger",
+  "city": "Fehmarn",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Ostwind Segelsport GmbH",
+  "city": "Hohwacht/Ostsee",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.ostwind.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Fa. Windgeister Sebastian Schwalm",
+  "city": "Orth / Fehmarn",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfshop Fehmarn Nitsch / Wiepcke OHG",
+  "city": "Landkirchen",
+  "state": null,
+  "country": "Deutschland",
+  "website": "https://www.surfshopfehmarn.de/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Isla Kite Center ",
+  "city": "Itarema",
+  "state": "CE",
+  "country": "Brazil",
+  "website": "https://www.instagram.com/islakitecenter/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D#",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Water Sports Brazil",
+  "city": "Ihabela",
+  "state": "São Paulo",
+  "country": "Brazil",
+  "website": "https://www.wsb.com.br/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "B3 Proshop",
+  "city": "Tarifa",
+  "state": "Andalusia",
+  "country": "Spain",
+  "website": "https://www.b3proshop.com/en/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Naish Argentina",
+  "city": "C1437Gma",
+  "state": "Buenos Aires",
+  "country": "Argentina",
+  "website": "http://naishargentina.com",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "CARIBOO SARL Boardriders Group",
+  "city": "Saint Jean De Luz",
+  "state": null,
+  "country": "France",
+  "website": "https://www.quiksilver.fr",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Ikuma Ride Shop",
+  "city": "Malvin",
+  "state": null,
+  "country": "Uruguay",
+  "website": "https://www.ikuma.com.uy/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Ile Du Vent/ Chinook Surfshop",
+  "city": "Leucate",
+  "state": null,
+  "country": "France",
+  "website": "https://www.chinook-leucate.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "YOU LOVE IT GmbH",
+  "city": "Dusseldorf",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.you-love-it.eu",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Source Palavas",
+  "city": "Palavas-Les-Flots",
+  "state": null,
+  "country": "France",
+  "website": "https://www.sourceboardshop.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Vague et Vent",
+  "city": "34250 Palavas-les-flots",
+  "state": "Palavas-les-flots",
+  "country": "France",
+  "website": "https://www.vagueetvent.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "100 Prozent Surf",
+  "city": "Castrop- Rauxel",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfshop Muenster",
+  "city": "Muenster",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfshop-munster.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Nocika Sarl / Flysurf.Com",
+  "city": "Salon De Provence",
+  "state": null,
+  "country": "France",
+  "website": "https://www.flysurf.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "The Ridery Marseille",
+  "city": "MARSEILLE",
+  "state": null,
+  "country": "France",
+  "website": "https://theridery.com",
+  "filters": [
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Technosurf",
+  "city": "Versoix",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.technosurf.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Hotmer L'Almanarre",
+  "city": "Hyeres",
+  "state": null,
+  "country": "France",
+  "website": "https://www.hotmer.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "The Ridery L'Almanarre",
+  "city": "HYERES",
+  "state": null,
+  "country": "France",
+  "website": "https://theridery.com",
+  "filters": [
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Backside Shop",
+  "city": "Préverenges",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.backside-shop.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Sportmania.ch",
+  "city": "St-Sulpice VD",
+  "state": null,
+  "country": "switserland",
+  "website": "http://sportmania.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Sportmania.ch",
+  "city": "St-Sulpice VD",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.sportmania.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "La Bise Noire",
+  "city": "Murten",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.bisenoire.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Tropical Sunset",
+  "city": "Nidau",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.sunsetshop.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Pipeline Sport",
+  "city": "Biel/Bienne",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.pipeline-sports.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Honu SUP GmbH",
+  "city": "Thun",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.honu.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Pipeline Sport",
+  "city": "Solothurn",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.pipeline-sports.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfparadies",
+  "city": "Pratteln",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.surfparadies.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfdeal.ch",
+  "city": "Küssnacht a.Rigi",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.surfdeal.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Caribbean Village AG",
+  "city": "Nottwil",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.carribean-village.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Ryf's surf & fun",
+  "city": "Luzern",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.surf-fun.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Stonesurf",
+  "city": "Münchwilen AG",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.stonesurf.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Spinout Ag",
+  "city": "Lenzburg",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.spinoutshop.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Andys Kiteshop",
+  "city": "Goldau",
+  "state": "Schwyz",
+  "country": "Switzerland",
+  "website": "https://kite-shop.ch/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "AF Sport GmbH",
+  "city": "Flüelen",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.windsurfing-urnersee.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Swiss Alpine Adventure",
+  "city": "Allenwinden",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.swissalpineadventure.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Andy's Kiteshop GmbH",
+  "city": "Goldau",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.kite-shop.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfari GmbH",
+  "city": "Zürich",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.Surfari.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Airxkite",
+  "city": "Cannes La Bocca",
+  "state": null,
+  "country": "France",
+  "website": "https://www.airxkite.com/en/home/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Pro Kitesports GmbH",
+  "city": "Willerzell",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.prokitesports.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Sport-Trend-Shop AG",
+  "city": "Hinwil",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.sport-trend-shop.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Der Surf Bauch - Shop",
+  "city": "Konstanz",
+  "state": null,
+  "country": "Deutschland",
+  "website": "https://surfbauch-shop.business.site/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "surfsports.ch",
+  "city": "St. Gallen",
+  "state": null,
+  "country": "Switserland",
+  "website": "https://www.surfsports.ch",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Pure Surfshop",
+  "city": "Rankweil",
+  "state": null,
+  "country": "Austria",
+  "website": "http://pure-surfshop.at",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "SixFeet (Markus Rhomberg)",
+  "city": "Wasserburg",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.six-feet.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "CrazyWave",
+  "city": "Karlsruhe",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.crazywave.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Keppler GmbH",
+  "city": "Pforzheim",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfkeppler.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Board Addicts Distribution GmbH",
+  "city": "Weingarten",
+  "state": null,
+  "country": "Germany",
+  "website": "http://www.board-addicts.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Board Addicts Distribution GmbH",
+  "city": "Stutensee",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfshop Laupheim GmbH",
+  "city": "Laupheim",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfshop-laupheim.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfline Munich",
+  "city": "Oy-Mittelberg",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://shop.dersurfshop.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kitepoint Shop",
+  "city": "Malcesine",
+  "state": null,
+  "country": "Italy",
+  "website": "https://www.kitepoint.shop/",
+  "filters": []
+ },
+ {
+  "name": "Shaka",
+  "city": "Torbole sul Garda",
+  "state": null,
+  "country": "Italy ",
+  "website": "https://shaka.it/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Freestyle World",
+  "city": "Schwabmunchen",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.freestyleworld.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Tools",
+  "city": "Starnberg",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surftools.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Windhunter Kiteboarding",
+  "city": "Holzkirchen",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Center Altmuhlsee",
+  "city": "Gunzenhausen",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfcenter-altmuehlsee.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "VKC Kite/wing School",
+  "city": "Farra D'Alpago",
+  "state": null,
+  "country": "Italy ",
+  "website": "http://scuolakitevkc.it/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Element Sports GmbH & CO KG",
+  "city": "Rosenheim",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Suppirates",
+  "city": "Weimar / Lahn",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.suppirates.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "key2fun / Maik Wieloch",
+  "city": "Drolshagen",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kiteworldshop.com",
+  "city": null,
+  "state": null,
+  "country": "Italy",
+  "website": "https://www.kiteworldshop.com/en/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "SUP Garage",
+  "city": "Depoltsdorf",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.sup-garage.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Porto Pollo Island Experience",
+  "city": "Palau",
+  "state": null,
+  "country": "Italy ",
+  "website": "https://www.portopolloisland.it/",
+  "filters": [
+   "School"
+  ]
+ },
+ {
+  "name": "Boardshop Seidl",
+  "city": "Salzburg",
+  "state": null,
+  "country": "Austria",
+  "website": "http://boardshop.at",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Segelschule Mondsee",
+  "city": "Mondsee",
+  "state": null,
+  "country": "Austria",
+  "website": "http://segelschule-mondsee.at",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Sport & Abenteuerschule",
+  "city": "Altmünster",
+  "state": null,
+  "country": "Austria",
+  "website": "http://sport-abenteuer.at",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Windsurfing Rhein Main GmbH",
+  "city": "Buttstedt",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.windsurf.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfshop Windstarke 7",
+  "city": "Harsewinkel",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "aqua-FUN Wassersportcenter Erfurt",
+  "city": "Erfurt",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.aqua-fun.com",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "BOARDS E FRIENDS",
+  "city": "Cabras",
+  "state": null,
+  "country": null,
+  "website": "https://www.boardsefriends.com/",
+  "filters": []
+ },
+ {
+  "name": "BOARDS E FRIENDS - ONLINE SHOP",
+  "city": " Oristano",
+  "state": null,
+  "country": null,
+  "website": "https://www.boardsefriends.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "JAMAKITE",
+  "city": "Marsala",
+  "state": null,
+  "country": "Italy ",
+  "website": "http://www.jamakite.com/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Kite Habits",
+  "city": "Marsala",
+  "state": "Trapani",
+  "country": "Italy",
+  "website": "http://kite-habits.pl",
+  "filters": [
+   "School",
+   "Rental",
+   "Demo center"
+  ]
+ },
+ {
+  "name": "Surfers Paradise",
+  "city": "Neustadt Mardorf",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfers-p.de",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kitetiki",
+  "city": "Halstenbek",
+  "state": null,
+  "country": "Deutschland",
+  "website": "https://kitetiki.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Tobias Perlak - Handmade",
+  "city": "Hamburg",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Boardrider",
+  "city": "Luebeck",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.oardrider-shop.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Sail and Surf Pelzerhaken GmbH",
+  "city": "Neustadt",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.sailandsurfpelzerhaken.de",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Wassersport Gromitz",
+  "city": "Gromitz",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.wassersport-groemitz.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Wassersportschule Grossenbrode",
+  "city": "Grossenbrode",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.sailaway-watersports.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Windsurfing Saipan Inc",
+  "city": "Saipan",
+  "state": "Northern Mariana Islands",
+  "country": "Northern Mariana Islands",
+  "website": "http://www.saipanwind.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Ocean Sports FZE",
+  "city": "Dubai",
+  "state": null,
+  "country": "United Arab Emirates",
+  "website": "https://ocean-sports-fze.business.site/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Blue Ocean Sports",
+  "city": "Dubai",
+  "state": null,
+  "country": "United Arab Emirates",
+  "website": "https://www.blue-ocean-sports.com/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Aqua Arena Club",
+  "city": null,
+  "state": "Eastern Region",
+  "country": "Saudi Arabia",
+  "website": "http://Aquaarenaclub.com",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Q8 Kiteboarding",
+  "city": "Kuwait City",
+  "state": "Kuweit",
+  "country": "Kuwait",
+  "website": "http://www.q8kiteboarding.com",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Hang Loose Tours Ltd.",
+  "city": "La Gaulette",
+  "state": null,
+  "country": "Mauritius",
+  "website": "http://www.hangloosetours.com",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Rosen and Meents",
+  "city": "Nahariya",
+  "state": "Northern District",
+  "country": "Israel",
+  "website": "https://www.rosen-meents.co.il/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Aquaholics",
+  "city": "Paje",
+  "state": "Zanzibar",
+  "country": "Tanzania",
+  "website": "https://www.aquaholics-zanzibar.com/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Windgenuity Sailboards",
+  "city": "Cromer",
+  "state": "New South Wales",
+  "country": "Australia",
+  "website": "https://windgenuity.com.au/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kite Technologies",
+  "city": "Sestrorezk",
+  "state": "Saint Petersburg",
+  "country": "Russia",
+  "website": "http://naishrussia.com/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kitesurfing Kos",
+  "city": "Marmari",
+  "state": null,
+  "country": "Greece",
+  "website": "http://www.kitesurfingkos.com",
+  "filters": [
+   "School",
+   "Rental",
+   "Demo center"
+  ]
+ },
+ {
+  "name": "Kitesurfing Kos",
+  "city": "Mastichari",
+  "state": null,
+  "country": "Greece",
+  "website": "http://www.kitesurfingkos.com",
+  "filters": [
+   "School",
+   "Rental",
+   "Demo center"
+  ]
+ },
+ {
+  "name": "Greatdayz",
+  "city": "Karpathos",
+  "state": null,
+  "country": "Greece",
+  "website": "http://naishgreatdayz.com",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Crazy Island Windsurf and Kite Center",
+  "city": "Gokceada/Çanakkale",
+  "state": null,
+  "country": "Turkey",
+  "website": "http://crazy-island.com/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental",
+   "Demo center"
+  ]
+ },
+ {
+  "name": "Meltemi",
+  "city": "Mylopotas",
+  "state": "Ios",
+  "country": "Greece",
+  "website": "https://meltemiwatersports.com/",
+  "filters": [
+   "School",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Wesurfin'",
+  "city": "Mpatsi",
+  "state": "Andros",
+  "country": "Greece",
+  "website": "https://wesurfin.com/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Surf Center",
+  "city": "Pärnu",
+  "state": "Pärnumaa",
+  "country": "Estonia",
+  "website": "http://surfcenter.ee",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Athens Watersports Club",
+  "city": "Artemis",
+  "state": "Athens",
+  "country": "Greece",
+  "website": "https://www.athenswatersports.gr/",
+  "filters": [
+   "School",
+   "Shop",
+   "Rental",
+   "Demo center"
+  ]
+ },
+ {
+  "name": "Zero Gravity",
+  "city": "Agia Paraskevi",
+  "state": "Attica",
+  "country": "Greece",
+  "website": "https://www.zerogravity.gr/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "E. KATSAROU & Co - FORWARD shop",
+  "city": "Agia Paraskevi",
+  "state": "Athens",
+  "country": "Greece",
+  "website": "http://www.forward.gr",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Prosurf Pawel Gizowski",
+  "city": "Warsaw",
+  "state": "Masovian Voivodeship",
+  "country": "Poland",
+  "website": "http://www.prosurf.com.pl/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Vakarm Surfshop",
+  "city": "Noumea",
+  "state": "New Caledonia",
+  "country": "France",
+  "website": "https://www.vakarm.nc/",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kiteboarding.Cz WIND&BOARD s.r.o.",
+  "city": "Ostrava",
+  "state": "Moravian-Silesian Region",
+  "country": "Czech Republic",
+  "website": "https://www.kiteboarding.cz/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Salty Lake",
+  "city": "Neusiedl am See",
+  "state": null,
+  "country": "Austria",
+  "website": "http://saltylake.at",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kitesurfing.at",
+  "city": "Podersdorf",
+  "state": null,
+  "country": "Austria",
+  "website": "http://kitesurfing.at",
+  "filters": [
+   "School"
+  ]
+ },
+ {
+  "name": "Move Surfstore",
+  "city": "Podersdorf",
+  "state": null,
+  "country": "Austria",
+  "website": "http://move-surfstore.at",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfingbird",
+  "city": "Furth",
+  "state": null,
+  "country": "Austriia",
+  "website": "http://surfingbird.gr",
+  "filters": []
+ },
+ {
+  "name": "Surfingbird",
+  "city": "Furth",
+  "state": null,
+  "country": "Austria",
+  "website": "http://surfingbird.gr",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Proboarding",
+  "city": "Thiessow",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.proboarding.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Wassersport Binz (Michael Hirsch)",
+  "city": "Zirkow",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.wassersport-binz.de",
+  "filters": [
+   "School",
+   "Shop"
+  ]
+ },
+ {
+  "name": "Funsport.de",
+  "city": "Berlin",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.funsport.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Wild East",
+  "city": "Dresden",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.wildeast.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Coronation-Industries",
+  "city": "Berlin",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.coronation-industries.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surfshop Stralsund",
+  "city": "Stralsund",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfshop-stralsund-ruegen.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "HW-Shapes",
+  "city": "Rostock",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.hw-shapes.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Kitefly.de",
+  "city": "Leipzig",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.kitefly.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "SURFSHOP24 Klaus Tiefenbacher",
+  "city": "Markkleeberg Ot Wachau",
+  "state": null,
+  "country": "Deutschland",
+  "website": "http://www.surfshop24.de",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Surf Center Wismar",
+  "city": "Wismar",
+  "state": null,
+  "country": "Duitsland",
+  "website": null,
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Naish MLT",
+  "city": "Manikata",
+  "state": null,
+  "country": "Malta",
+  "website": null,
+  "filters": [
+   "School",
+   "Shop",
+   "Rental"
+  ]
+ },
+ {
+  "name": "Technix Distribution",
+  "city": "Auckland",
+  "state": "New Zealand",
+  "country": "New Zealand",
+  "website": "https://www.technixdistribution.co.nz/",
+  "filters": [
+   "Shop"
+  ]
+ },
+ {
+  "name": "Suntrax",
+  "city": "Cape Town",
+  "state": "Western Cape",
+  "country": "South Africa",
+  "website": "https://suntrax.co.za/",
+  "filters": [
+   "Shop"
+  ]
+ }
+]
