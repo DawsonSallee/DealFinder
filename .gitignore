@@ -1,4 +1,4 @@
 node_modules/
 last_scan_results.json
-latest_scan.json
+latest_scan_full.json
 *.log
