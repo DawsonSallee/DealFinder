@@ -78,7 +78,10 @@ function main() {
     discountPct: l.discountPct,
     url: l.url,
     image: l.image || null,
-    category: l.productType && l.productType.trim() ? l.productType.trim() : classify(l.title),
+    // Always use our own classifier, not each shop's raw product_type — that field turned out
+    // wildly inconsistent across ~350 shops (e.g. "Kite"/"Kites"/"KITES"/"Kiteboarding"/"Kite -
+    // Kites Parts - Kites" all meaning the same thing), which made a category filter useless.
+    category: classify(l.title),
     addedAt: l.createdAt || null,
   }));
   snapshot.sort((a, b) => b.discountPct - a.discountPct);
